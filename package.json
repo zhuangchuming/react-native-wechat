@@ -18,7 +18,7 @@
     "ios"
   ],
   "dependencies": {
-    "es6-promisify": "3.0.0",
+     "bluebird": "^3.4.7",
     "events": "1.0.2"
   },
   "peerDependencies": {
