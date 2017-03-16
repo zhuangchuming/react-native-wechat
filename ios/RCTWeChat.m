@@ -12,7 +12,7 @@
 #import <React/RCTBridge.h>
 #import <React/RCTLog.h>
 #import <React/RCTImageLoader.h>
-#import <RCTImage/RCTImageUtils.h>
+// #import <RCTImage/RCTImageUtils.h>
 
 
 // Define error messages
